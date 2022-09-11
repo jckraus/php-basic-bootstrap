@@ -1,2 +1,2 @@
-# php-basic-bootstrap
+# Basic php bootstrap with phpunit
  
